@@ -1,8 +1,4 @@
-firecrawl-py
-agno
-elevenlabs
-google-generativeai
-python-dotenv
+streamlit
 requests
 beautifulsoup4
-lxml
+gtts
